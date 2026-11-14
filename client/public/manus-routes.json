@@ -1,0 +1,16 @@
+{
+  "routes": [
+    { "path": "/", "title": "الرئيسية — جرير" },
+    { "path": "/products", "title": "المنتجات — جرير" },
+    { "path": "/products/:id", "title": "تفاصيل المنتج — جرير" },
+    { "path": "/offers", "title": "العروض والباقات — جرير" },
+    { "path": "/campaigns", "title": "الحملات التسويقية — جرير" },
+    { "path": "/best-sellers", "title": "الأكثر مبيعًا — جرير" },
+    { "path": "/recommendations", "title": "التوصيات الشخصية — جرير" },
+    { "path": "/interactive", "title": "المحتوى التفاعلي — جرير" },
+    { "path": "/community", "title": "مجتمع جرير" },
+    { "path": "/social", "title": "وسائل التواصل — جرير" },
+    { "path": "/analytics", "title": "قياس الأداء — جرير" },
+    { "path": "/dashboard", "title": "لوحة التحكم التسويقية — جرير" }
+  ]
+}
